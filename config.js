@@ -10,9 +10,9 @@ const CONFIG = {
     btnYes: 'Ừ, tao thích mày đó rồi sao <33',
     btnNo: 'Không, thằng ngu mập địt à :3',
     question:'Trên thế giới hơn 7,6 tỉ người mà sao đôi ta lại yêu nhau <3',
-    btnReply: 'Tại tao chưa bao giờ gặp thằng nào vừa ngáo vừa mập địt mà dễ thương như mày hết á <3',
-    reply: 'hehe Hin biết mà đồ bà già đáng yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    btnReply: 'Gửi tới mập địt bủn bủn <33333333',
+    reply: 'Tại tao chưa bao giờ gặp thằng nào vừa ngáo vừa mập địt mà dễ thương như mày hết á <3',
+    mess: 'Hehe Hin biết mà 🥰. Yêu trái Thị lắm 😘😘',
     messDesc: 'Tối nay 6h anh qua đón nhé công chúa.',
     btnAccept: 'Dạaaaaaaa LãoLão <3'
 }
