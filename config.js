@@ -17,5 +17,5 @@ const CONFIG = {
     btnYes:' Ờ qua đây tao nói cho mày lủng tai!!',
     btnNo: ' Mơ đi cưng, cho Lão đợi ta tới già lun',
     messDesc: ' Okie Tối nay 6h anh qua đón nhé công chúa.',
-    btnAccept: 'Dạaaaaaaa LãoLão <3 '
+    btnAccept: 'Dạaaaaaaa LãoLão <3'
 }
