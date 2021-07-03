@@ -12,10 +12,6 @@ const CONFIG = {
     question:'Trên thế giới hơn 7,6 tỉ người mà sao đôi ta lại yêu nhau <3',
     btnReply: 'Gửi tới mập địt bủn bủn <33333333',
     reply: 'Tại tao chưa bao giờ gặp thằng nào vừa ngáo vừa mập địt mà dễ thương như mày hết á <3',
-    mess: 'Hehe Hin biết mà 🥰. Yêu trái Thị lắm 😘😘',
-    title: ' Vậy là mình đã hành hạ nhau suốt được 1 năm rồi á! Cảm giác của Thị 1 năm qua như thế nào kể Hin nghe được chứ ?!' , 
-    btnYes:' Ờ qua đây tao nói cho mày lủng tai!!',
-    btnNo: ' Mơ đi cưng, cho Lão đợi ta tới già lun',
     messDesc: ' Okie Tối nay 6h anh qua đón nhé công chúa.',
     btnAccept: 'Dạaaaaaaa LãoLão <3'
  }
