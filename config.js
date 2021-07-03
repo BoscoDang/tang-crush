@@ -14,5 +14,5 @@ const CONFIG = {
     reply: 'Tại tao chưa bao giờ gặp thằng nào vừa ngáo vừa mập địt mà dễ thương như mày hết á <3',
     mess: 'Hehe Hin biết mà 🥰. Yêu trái Thị lắm 😘😘',
     messDesc: 'Tối nay 6h anh qua đón nhé công chúa.',
-    btnAccept: 'Dạaaaaaaa LãoLão <3 '
+    btnAccept: 'Dạaaaaaaa LãoLão <3'
 }
